@@ -1,0 +1,5 @@
+birthYear = input("masukan tahun lahir: ")
+yearNow = input("masukan tahu Sekarang: ")
+age = int (yearNow) - int (birthYear) 
+print("Kamu lahir tahun", birthYear) 
+print("Umur kamu", age, "tahun")
